@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.9.0",
+  "iOS" : [
+    {
+      "name" : "EasyPeasy",
+      "hash" : "d94c55452c75787098f314a84b5de0a7a22727e4cb57dbd891f23b86beb04917",
+      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+    }
+  ]
+}

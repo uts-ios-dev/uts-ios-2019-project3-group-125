@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1001</integer>
+		<key>classerName</key>
+		<string>App Development in the iOS Environment</string>
+		<key>teacher</key>
+		<string>David Chalmers</string>
+		<key>datetime</key>
+		<string>Monday  1,2 lessons</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1002</integer>
+		<key>classerName</key>
+		<string>Data Structures and Algorithms</string>
+		<key>teacher</key>
+		<string>David Chalmers</string>
+		<key>datetime</key>
+		<string>Thursday 6,7 lessons</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<real>1003</real>
+		<key>classerName</key>
+		<string>App Development in the iOS Environment</string>
+		<key>teacher</key>
+		<string>David Chalmers</string>
+		<key>datetime</key>
+		<string>Tuesday 2,2 lessons</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>1004</integer>
+		<key>classerName</key>
+		<string>Data Structures and Algorithms</string>
+		<key>teacher</key>
+		<string>David Chalmers</string>
+		<key>datetime</key>
+		<string>Friday 4,5 lessons</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<real>1005</real>
+		<key>classerName</key>
+		<string>Database programming</string>
+		<key>teacher</key>
+		<string>J. Anthony Movshon</string>
+		<key>datetime</key>
+		<string>Wednesday 8,9 lessons</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<real>1006</real>
+		<key>classerName</key>
+		<string>Cloud computing and software as a service</string>
+		<key>teacher</key>
+		<string>J. Anthony Movshon</string>
+		<key>datetime</key>
+		<string>Thursday 2,3 lessons</string>
+	</dict>
+</array>
+</plist>

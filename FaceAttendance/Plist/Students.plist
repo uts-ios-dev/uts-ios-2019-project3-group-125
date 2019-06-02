@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Adam Keilthy</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180030</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Adam Edward Stones</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180031</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Andrea Luppi</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180032</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Apsara Iyer</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180033</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bradley Roberts</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180034</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Christian Willmes</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180035</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Daniel Schofield</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180036</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eileen Coughlan</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180037</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Emilia Pompe</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180038</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Emma Bilski</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180039</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Evangeline Kozitza</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180040</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gina Starfield</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180041</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hanna Amanuel</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180042</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hannah Mayer</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180043</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hyungseop Han</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180044</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Istvan N. Huszar</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180045</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jai Vipra</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180046</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jamie Lee Shenk</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180047</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jason Waite</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180048</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lindsey Cohick</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180049</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Luana Campos Soares</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180050</integer>
+		<key>classer</key>
+		<string>App Development in the iOS Environment</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Luca Ambroz</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180001</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lucy Lim</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180002</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Michael Coughlan</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180003</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Miriam Zachau Walker</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180004</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Monzilur Rahman</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180005</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mpho Makola</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180006</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Peter Shiu Yeung Ho</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180007</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Petr Budrin</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180008</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ruoyi Wang</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180009</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Samuel Aroney</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180010</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spencer Klavan</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180011</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stefanie Arend</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180012</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thomas Fay</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180013</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thomas P. Davis</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20180014</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thomas Vogl</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180015</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Toni Scharle</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180016</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Weng Ming Ng</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180017</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wilfred Ngia</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180018</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Yunfang Yang</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180019</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bethan Swift</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180020</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Brian Tyrrell</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180021</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cameron Royle</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180022</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chun Ting Lau</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180023</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Deland Chan</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20180024</integer>
+		<key>classer</key>
+		<string>Data Structures and Algorithms</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Derek Driggs</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181111</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Diana Little</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181112</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eric Foley</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181113</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gangshun Yi</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181114</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Giuliano Sidro</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181115</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hailey Trier</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181116</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hira Javaid</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181117</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Irene Yang	</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181118</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jack Ren</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181119</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jana Muschinski</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181120</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jonathan Yong</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181121</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Juliette Vani</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181122</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Karen McCarthy</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181123</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Kayla Li</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20181124</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Larissa Goli</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181125</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Laurel Kaye</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181126</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leonie Westhoff</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181127</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Malvika Gulati</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181128</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Marc Rigter</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181129</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Matthew Hewson</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181130</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Oliver Härmson</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181131</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rose Stevens</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20181132</integer>
+		<key>classer</key>
+		<string>Database programming</string>
+		<key>grade</key>
+		<string>Freshman</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Samuel Rogers</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170001</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Scott Small</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170002</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Seth Hart</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170003</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shiyan Tang</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170004</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tomas Borsa</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170005</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Valerie Bradley</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170006</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wei Xiong Wen</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170007</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wing Chong Lau</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170008</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Yves Kwan</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170009</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cory Johnson</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170010</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Emma Bluemke</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170011</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jacob Mariani</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170012</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jane Millar</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170013</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jessica Sinyor</string>
+		<key>sex</key>
+		<string>male</string>
+		<key>no</key>
+		<integer>20170014</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jordan Miller</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170015</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Kelsey Inouye</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170016</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Linda Qian</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170017</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Madison Little</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170018</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mark Brooke</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170019</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mark Wong</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170020</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Matthew Buchan</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170021</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sasha Rasmussen</string>
+		<key>sex</key>
+		<string>female</string>
+		<key>no</key>
+		<integer>20170022</integer>
+		<key>classer</key>
+		<string>Cloud computing and software as a service</string>
+		<key>grade</key>
+		<string>Sophomore</string>
+	</dict>
+</array>
+</plist>
