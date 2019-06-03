@@ -421,7 +421,7 @@
 			isa = PBXGroup;
 			children = (
 				4B50083E22997F5A00271276 /* Base */,
-				4B50083122997F5A00271276 /* 签到 */,
+				4B50083122997F5A00271276 /* sign */,
 				4B50083722997F5A00271276 /* Profile */,
 				4B50083922997F5A00271276 /* Index */,
 				4B50083D22997F5A00271276 /* LoginViewController.swift */,
@@ -430,7 +430,7 @@
 			path = ViewController;
 			sourceTree = "<group>";
 		};
-		4B50083122997F5A00271276 /* 签到 */ = {
+		4B50083122997F5A00271276 /* sign */ = {
 			isa = PBXGroup;
 			children = (
 				4B50083222997F5A00271276 /* PhotoReviewViewController.swift */,
@@ -438,7 +438,7 @@
 				4B50083422997F5A00271276 /* CameraViewController.swift */,
 				4B50083522997F5A00271276 /* Sign.storyboard */,
 			);
-			path = "签到";
+			path = sign;
 			sourceTree = "<group>";
 		};
 		4B50083722997F5A00271276 /* Profile */ = {
@@ -753,7 +753,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2YSTA9Y272;
+				DEVELOPMENT_TEAM = E48SHTAPJG;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -776,7 +776,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2YSTA9Y272;
+				DEVELOPMENT_TEAM = E48SHTAPJG;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
