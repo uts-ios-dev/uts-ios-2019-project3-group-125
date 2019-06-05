@@ -20,7 +20,7 @@ struct HttpApi {
         //let manager = SessionManager.default
         //manager.session.configuration.timeoutIntervalForRequest = 120
         
-        AF.request(authUrl, method: .post, parameters: ["grant_type":"client_credentials", "client_id":"gcUm0bGmooQb9b5jL9vjjWyY", "client_secret":"ePliaXKhLZrkuU6VYuq37VZdIUILkzHq"])
+        AF.request(authUrl, method: .post, parameters: ["grant_type":"client_credentials", "client_id":"nNy7DtsRGls22sSq1ToXkiST", "client_secret":"DUPqg7DREdf6G36v6jcEEvQBvRw0utpH"])
             .responseJSON {
                 response in
                 switch response.result {

@@ -256,11 +256,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Luca Ambroz</string>
+		<string>Xiayang Zhang</string>
 		<key>sex</key>
 		<string>male</string>
 		<key>no</key>
-		<integer>20180001</integer>
+		<integer>13124084</integer>
 		<key>classer</key>
 		<string>Data Structures and Algorithms</string>
 		<key>grade</key>
@@ -268,11 +268,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Lucy Lim</string>
+		<string>Weihan Zhang </string>
 		<key>sex</key>
 		<string>male</string>
 		<key>no</key>
-		<integer>20180002</integer>
+		<integer>12838429</integer>
 		<key>classer</key>
 		<string>Data Structures and Algorithms</string>
 		<key>grade</key>
@@ -280,11 +280,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Michael Coughlan</string>
+		<string>HAO HAN</string>
 		<key>sex</key>
 		<string>male</string>
 		<key>no</key>
-		<integer>20180003</integer>
+		<integer>12806081</integer>
 		<key>classer</key>
 		<string>Data Structures and Algorithms</string>
 		<key>grade</key>
@@ -292,251 +292,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Miriam Zachau Walker</string>
+		<string>Yuhao Pan</string>
 		<key>sex</key>
 		<string>male</string>
 		<key>no</key>
-		<integer>20180004</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Monzilur Rahman</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180005</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mpho Makola</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180006</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Peter Shiu Yeung Ho</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180007</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Petr Budrin</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180008</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Ruoyi Wang</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180009</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Samuel Aroney</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180010</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Spencer Klavan</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180011</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Stefanie Arend</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180012</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thomas Fay</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180013</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thomas P. Davis</string>
-		<key>sex</key>
-		<string>male</string>
-		<key>no</key>
-		<integer>20180014</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thomas Vogl</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180015</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Toni Scharle</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180016</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Weng Ming Ng</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180017</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Wilfred Ngia</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180018</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Yunfang Yang</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180019</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Bethan Swift</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180020</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Brian Tyrrell</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180021</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Cameron Royle</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180022</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Chun Ting Lau</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180023</integer>
-		<key>classer</key>
-		<string>Data Structures and Algorithms</string>
-		<key>grade</key>
-		<string>Sophomore</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Deland Chan</string>
-		<key>sex</key>
-		<string>female</string>
-		<key>no</key>
-		<integer>20180024</integer>
+		<integer>12769081</integer>
 		<key>classer</key>
 		<string>Data Structures and Algorithms</string>
 		<key>grade</key>

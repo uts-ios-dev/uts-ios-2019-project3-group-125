@@ -13,7 +13,7 @@
         <!--Index View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="IndexViewController" id="BYZ-38-t0r" customClass="IndexViewController" customModule="FaceAttendance" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="IndexViewController" id="BYZ-38-t0r" customClass="IndexViewController" customModule="facial_attendance" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -28,7 +28,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="IndexCell" id="iUt-an-PcE" customClass="IndexGuidesCell" customModule="FaceAttendance" customModuleProvider="target">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="IndexCell" id="iUt-an-PcE" customClass="IndexGuidesCell" customModule="facial_attendance" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="55" width="182" height="197"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
@@ -89,7 +89,7 @@
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
-                                <collectionReusableView key="sectionHeaderView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="IndexGuidesHeaderView" id="ggK-lq-0uH" customClass="IndexGuidesHeaderView" customModule="FaceAttendance" customModuleProvider="target">
+                                <collectionReusableView key="sectionHeaderView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="IndexGuidesHeaderView" id="ggK-lq-0uH" customClass="IndexGuidesHeaderView" customModule="facial_attendance" customModuleProvider="target">
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="55"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
@@ -146,7 +146,7 @@
         <!--Profile View Controller-->
         <scene sceneID="AP3-xS-aCj">
             <objects>
-                <viewController storyboardIdentifier="ProfileViewController" id="86Q-20-7rS" customClass="ProfileViewController" customModule="FaceAttendance" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ProfileViewController" id="86Q-20-7rS" customClass="ProfileViewController" customModule="facial_attendance" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="6N9-qe-jkq">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -289,7 +289,7 @@
         <!--Subject Detail View Controller-->
         <scene sceneID="oc0-gl-xVO">
             <objects>
-                <viewController storyboardIdentifier="SubjectDetailViewController" id="XE3-e5-aji" customClass="SubjectDetailViewController" customModule="FaceAttendance" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SubjectDetailViewController" id="XE3-e5-aji" customClass="SubjectDetailViewController" customModule="facial_attendance" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="jCc-UQ-BXn">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -349,7 +349,7 @@
         <!--Face Database View Controller-->
         <scene sceneID="I37-Yr-XNl">
             <objects>
-                <viewController storyboardIdentifier="FaceDatabaseViewController" id="gyh-vr-6A4" customClass="FaceDatabaseViewController" customModule="FaceAttendance" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="FaceDatabaseViewController" id="gyh-vr-6A4" customClass="FaceDatabaseViewController" customModule="facial_attendance" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8Wz-7r-bub">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -364,14 +364,14 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="q4q-dM-psG" customClass="HeaderCell" customModule="FaceAttendance" customModuleProvider="target">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="q4q-dM-psG" customClass="HeaderCell" customModule="facial_attendance" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="10" width="153" height="219"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="0.0" y="0.0" width="153" height="219"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="stu_def" translatesAutoresizingMaskIntoConstraints="NO" id="s89-2U-MRi" customClass="BFImageView" customModule="FaceAttendance" customModuleProvider="target">
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="stu_def" translatesAutoresizingMaskIntoConstraints="NO" id="s89-2U-MRi" customClass="BFImageView" customModule="facial_attendance" customModuleProvider="target">
                                                     <rect key="frame" x="0.0" y="0.0" width="153" height="153"/>
                                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <constraints>

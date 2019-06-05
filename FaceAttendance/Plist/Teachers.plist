@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>David Chalmers</string>
+		<string>Zheng Yan</string>
 		<key>sex</key>
 		<string>male</string>
 		<key>username</key>
@@ -14,13 +14,13 @@
 		<key>no</key>
 		<string>2019001</string>
 		<key>mobile</key>
-		<string>15828559565</string>
+		<string>0450000000</string>
 		<key>subjects</key>
 		<string>App Development in the iOS Environment,Data Structures and Algorithms</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>J. Anthony Movshon</string>
+		<string>Suman Ojha</string>
 		<key>sex</key>
 		<string>male</string>
 		<key>username</key>
@@ -30,7 +30,7 @@
 		<key>no</key>
 		<string>2019002</string>
 		<key>mobile</key>
-		<string>15965425555</string>
+		<string>0450000000</string>
 		<key>subjects</key>
 		<string>Database programming,Cloud computing and software as a service</string>
 	</dict>

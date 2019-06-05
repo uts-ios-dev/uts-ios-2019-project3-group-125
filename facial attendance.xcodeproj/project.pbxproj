@@ -98,7 +98,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4B5007C822997C3200271276 /* FaceAttendance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceAttendance.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B5007C822997C3200271276 /* facial attendance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "facial attendance.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5007CB22997C3200271276 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B5007D022997C3200271276 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4B5007D222997C3500271276 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -196,7 +196,7 @@
 		4B5007C922997C3200271276 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B5007C822997C3200271276 /* FaceAttendance.app */,
+				4B5007C822997C3200271276 /* facial attendance.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -482,9 +482,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4B5007C722997C3200271276 /* FaceAttendance */ = {
+		4B5007C722997C3200271276 /* facial attendance */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B5007DA22997C3500271276 /* Build configuration list for PBXNativeTarget "FaceAttendance" */;
+			buildConfigurationList = 4B5007DA22997C3500271276 /* Build configuration list for PBXNativeTarget "facial attendance" */;
 			buildPhases = (
 				4B5007C422997C3200271276 /* Sources */,
 				4B5007C522997C3200271276 /* Frameworks */,
@@ -495,9 +495,9 @@
 			);
 			dependencies = (
 			);
-			name = FaceAttendance;
+			name = "facial attendance";
 			productName = FaceAttendance;
-			productReference = 4B5007C822997C3200271276 /* FaceAttendance.app */;
+			productReference = 4B5007C822997C3200271276 /* facial attendance.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -515,7 +515,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4B5007C322997C3200271276 /* Build configuration list for PBXProject "FaceAttendance" */;
+			buildConfigurationList = 4B5007C322997C3200271276 /* Build configuration list for PBXProject "facial attendance" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -528,7 +528,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4B5007C722997C3200271276 /* FaceAttendance */,
+				4B5007C722997C3200271276 /* facial attendance */,
 			);
 		};
 /* End PBXProject section */
@@ -797,7 +797,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B5007C322997C3200271276 /* Build configuration list for PBXProject "FaceAttendance" */ = {
+		4B5007C322997C3200271276 /* Build configuration list for PBXProject "facial attendance" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B5007D822997C3500271276 /* Debug */,
@@ -806,7 +806,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B5007DA22997C3500271276 /* Build configuration list for PBXNativeTarget "FaceAttendance" */ = {
+		4B5007DA22997C3500271276 /* Build configuration list for PBXNativeTarget "facial attendance" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B5007DB22997C3500271276 /* Debug */,

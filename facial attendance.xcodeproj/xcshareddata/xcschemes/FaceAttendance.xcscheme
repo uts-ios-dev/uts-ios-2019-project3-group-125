@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4B5007C722997C3200271276"
-               BuildableName = "FaceAttendance.app"
-               BlueprintName = "FaceAttendance"
-               ReferencedContainer = "container:FaceAttendance.xcodeproj">
+               BuildableName = "facial attendance.app"
+               BlueprintName = "facial attendance"
+               ReferencedContainer = "container:facial attendance.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B5007C722997C3200271276"
-            BuildableName = "FaceAttendance.app"
-            BlueprintName = "FaceAttendance"
-            ReferencedContainer = "container:FaceAttendance.xcodeproj">
+            BuildableName = "facial attendance.app"
+            BlueprintName = "facial attendance"
+            ReferencedContainer = "container:facial attendance.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B5007C722997C3200271276"
-            BuildableName = "FaceAttendance.app"
-            BlueprintName = "FaceAttendance"
-            ReferencedContainer = "container:FaceAttendance.xcodeproj">
+            BuildableName = "facial attendance.app"
+            BlueprintName = "facial attendance"
+            ReferencedContainer = "container:facial attendance.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4B5007C722997C3200271276"
-            BuildableName = "FaceAttendance.app"
-            BlueprintName = "FaceAttendance"
-            ReferencedContainer = "container:FaceAttendance.xcodeproj">
+            BuildableName = "facial attendance.app"
+            BlueprintName = "facial attendance"
+            ReferencedContainer = "container:facial attendance.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
